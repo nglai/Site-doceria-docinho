@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -72,4 +71,3 @@
         <p>Todos os direitos reservados &copy</p>
     </footer>
 </body>
-</html>
